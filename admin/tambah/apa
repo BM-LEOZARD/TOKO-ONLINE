@@ -1,0 +1,3 @@
+echo "<pre>";
+        print_r($_FILES['foto']);
+        echo "</pre>";
